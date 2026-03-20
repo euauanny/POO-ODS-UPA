@@ -54,7 +54,7 @@ O projeto explora diversos conceitos fundamentais de Programação Orientada a O
    mvn exec:java -Dexec.mainClass="org.example.Main"
    ```
 
-## Créditos
+## Autora
 Desenvolvido por Auanny para a disciplina de Programaçao Orientada a Objetos na UTFPR - Campus Pato Branco.
 
 ---
